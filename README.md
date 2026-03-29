@@ -147,23 +147,6 @@ And finally check the [Last minute review](https://github.com/danielsobrado/CCDA
 
 I have no affiliation with Confluent or the CCDAK test, and my notes and questions are entirely my own and may contain inaccuracies.
 
-## Contributors
-
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-
 ## Contributing
 
 All comments are welcome. Open an issue or send a pull request if you find any bugs or have recommendations for improvement.
